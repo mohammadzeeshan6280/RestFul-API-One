@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "iphone",
+        "price" : "154",
+        "feature" : true,
+        "company" : "apple"
+    }, 
+    {
+        "name" : "iphone10",
+        "price" : "1154",
+        "feature" : true,
+        "company" : "apple"
+    }, 
+    {
+        "name" : "watch",
+        "price" : "1514",
+        "feature" : true,
+        "company" : "apple"
+    }, 
+    {
+        "name" : "macbook",
+        "price" : "1540",
+        "feature" : true,
+        "company" : "apple"
+    }, 
+    {
+        "name" : "s20",
+        "price" : "504",
+        "feature" : true,
+        "company" : "samsung"
+    }, 
+    {
+        "name" : "dell gaming",
+        "price" : "501",
+        "feature" : true,
+        "company" : "dell"
+    }, 
+    {
+        "name" : "Redmi Note 13 5G",
+        "price" : "101",
+        "featured" : true,
+        "company" : "mi"
+    }, 
+    {
+        "name" : "mi laptop",
+        "price" : "301",
+        "featured" : true,
+        "company" : "mi"
+    }, 
+    {
+        "name" : "s54",
+        "price" : "999",
+        "featured" : true,
+        "company" : "samsung"
+    }, 
+    {
+        "name" : "dell laptop",
+        "price" : "1111",
+        "featured" : true,
+        "company" : "dell"
+    }
+]
